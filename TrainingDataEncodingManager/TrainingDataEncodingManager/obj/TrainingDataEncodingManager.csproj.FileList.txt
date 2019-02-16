@@ -1,0 +1,17 @@
+bin\Debug\TrainingDataEncodingManager.exe
+bin\Debug\TrainingDataEncodingManager.pdb
+bin\Debug\ProgressReporter.dll
+bin\Debug\QDataTableSelectorDialog.dll
+bin\Debug\ProgressReporter.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TrainingDataEncodingManager.Form1.resources
+obj\Debug\TrainingDataEncodingManager.Properties.Resources.resources
+obj\Debug\TrainingDataEncodingManager.csproj.GenerateResource.Cache
+obj\Debug\TrainingDataEncodingManager.exe
+obj\Debug\TrainingDataEncodingManager.pdb
+bin\Debug\BinaryFileIOManager.dll
+bin\Debug\EncodingSchemeManagementLib.dll
+bin\Debug\EncodingSchemeManagementLib.pdb
+bin\Debug\BinaryFileIOManager.pdb
+bin\Debug\DataEncodingManagerLib.dll
+bin\Debug\DataEncodingManagerLib.pdb

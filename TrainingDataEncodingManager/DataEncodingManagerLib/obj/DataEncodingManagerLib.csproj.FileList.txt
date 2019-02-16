@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\DataEncodingManagerLib.dll
+bin\Debug\DataEncodingManagerLib.pdb
+bin\Debug\BinaryFileIOManager.dll
+bin\Debug\BinaryFileIOManager.pdb
+obj\Debug\DataEncodingManagerLib.dll
+obj\Debug\DataEncodingManagerLib.pdb
+bin\Debug\EncodingSchemeManagementLib.dll
+bin\Debug\EncodingSchemeManagementLib.pdb
+bin\Debug\ProgressReporter.dll
+bin\Debug\ProgressReporter.pdb
